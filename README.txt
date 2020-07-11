@@ -18,6 +18,8 @@ ISBN: 978-7-115-45924-4
     图灵程序设计丛书
     Apress
 
+原始源代码下载地址：https://www.apress.com/cn/book/9781484222225#
+
 Chapter01   第1章 欢迎来到 iOS 和 Swift 世界
     无代码
 
