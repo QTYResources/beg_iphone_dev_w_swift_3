@@ -24,13 +24,13 @@ Chapter01   第1章 欢迎来到 iOS 和 Swift 世界
     无代码
 
 Chapter02   第2章 创建第一个 App
-
+    01. HelloWorld                                              ===> HelloWord应用程序
 
 Chapter03   第3章 基本的用户交互
-
+    01. ButtonFun                                               ===> UIButton 和 UILabel 的使用
 
 Chapter04   第4章 更丰富的用户界面
-
+    01
 
 Chapter05   第5章 自动旋转
 
