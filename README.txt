@@ -86,3 +86,16 @@ Chapter21   第21章 摄像头和照片图库
 Chapter22   第22章 本地化翻译应用
 
 
+Appendix A  附录A Swift 简介
+    01. SwiftBasics                                     ===> playground、注释、变量和常量
+    02. SwiftBasics02                                   ===> 预定义类型、运算符和控制语句
+    03. SwiftBasics03                                   ===> 数组、区间和字典
+    04. SwiftBasics04                                   ===> 可选值
+    05. SwiftBasics05                                   ===> 控制语句
+    06. SwiftBasics06                                   ===> 函数和闭包
+    07. SwiftBasics07                                   ===> 错误处理
+    08. SwiftBasics08                                   ===> 结构体
+    09. SwiftBasics09                                   ===> 类
+    10. SwiftBasics10                                   ===> 子类和继承
+    11. SwiftBasics11                                   ===> 协议
+    12. SwiftBasics12                                   ===> 扩展

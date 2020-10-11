@@ -117,10 +117,36 @@ let value = 11
 //    print("Value is neither 2 or 3")
 //}
 
-switch (value) {
-case 2: fallthrough
-case 3: 
-    print("Value is 2 or 3")
-default:
-    print("Value is neither 2 or 3")
+//switch (value) {
+//case 2: fallthrough
+//case 3:
+//    print("Value is 2 or 3")
+//default:
+//    print("Value is neither 2 or 3")
+//}
+
+//let s = "Hello"
+//switch s {
+//    case "Hello":
+//        print("Hello to you, too")
+//
+//    case "Goodbye":
+//        print("See you tomorrow")
+//
+//    default:
+//        print("I don't understand")
+//}
+
+enum Status {
+    case OK
+    case ERROR(String)
+}
+
+let result = Status.ERROR("Network connection rejected")
+switch result {
+    case .OK:
+        print("Success!")
+        
+    case .ERROR(let message):
+        print("Ooops: \(message)")
 }
